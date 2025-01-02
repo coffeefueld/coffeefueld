@@ -7,7 +7,7 @@ I don't really think im going to use this profile for much stuff since im not kn
 
 Peace!
 
-[Buy me a coffee](buymeacoffee.com/coffeefueld)
+[Buy me a coffee](https://buymeacoffee.com/coffeefueld)
 
 <!---
 coffeefueld/coffeefueld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
